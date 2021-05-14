@@ -1,2 +1,2 @@
 python==3.8.0
-folium=0.2.1
+folium==0.2.1
